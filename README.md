@@ -38,4 +38,4 @@ This is a Python-based Inventory Management System using MySQL for database mana
    - Create a MySQL database named InventoryManagement.
    - Create the required tables using the following SQL schema.
      
-4. Update the database connection details in the main.py file:
+4. Update the database connection details in the main.py file.
